@@ -4,12 +4,11 @@ The networking program is written in Python using a standard library called sock
 one is for the server side and the other is for the client side. In order to run this software two terminals will be used. First, the server side will be executed 
 in the command prompt, then the client side will be executed in the same manner. A confirmation message will display, notifying the user that a connection to the
 server has been established. 
-{Describe your purpose for writing this software.}
+
 The purpose for writing this software was to demonstrate how to create a client/ server network model in Python using a standard library. A TCP socket type was used
 in this software. 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (you will need to show two pieces of software running and communicating with each other) and a walkthrough of the code.}
-
+**YouTube**
 [Software Demo Video]()
 
 # Network Communication
