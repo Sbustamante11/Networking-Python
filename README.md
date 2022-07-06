@@ -9,7 +9,7 @@ The purpose for writing this software was to demonstrate how to create a client/
 in this software. 
 
 **YouTube**
-[Software Demo Video]()
+[Software Demo Video](https://youtu.be/0n71u2WYhoY)
 
 # Network Communication
 
