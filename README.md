@@ -19,7 +19,9 @@ The socket type that is used in this software is TCP.
 - TCP socket
 - port number: 1243
 
-{Identify the format of messages being sent between the client and server or the messages sent between two peers.}
+Format
+- utf-8 (decode)
+- string with fixed header size
 
 # Development Environment
 
